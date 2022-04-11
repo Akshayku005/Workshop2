@@ -1,7 +1,3 @@
-package workshop;
-
-import java.util.LinkedList;
-
 public class Linky {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -24,5 +20,7 @@ System.out.println("after swap of 2 elements and removing last element>>>");
 			System.out.print(Linky.get(i));
 			System.out.print(",");
 		}
-	}//WAP to insert elements into the linked list at the first and last position.remove first element from list and  
+	}
+
+}//WAP to insert elements into the linked list at the first and last position.remove first element from list and  
 //swap two elements in a linked list.
