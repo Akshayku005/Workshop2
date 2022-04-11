@@ -13,7 +13,8 @@ Linky.add(9);
 Linky.add(10);
 Linky.addFirst(20);
 Linky.removeLast();
-Linky.add(0,12);
+Linky.add(0,8);
+Linky.add(1,20);
 for (int i=0; i<Linky.size(); i++) {
 	System.out.print(Linky.get(i));
 	System.out.print(",");
